@@ -4,6 +4,7 @@
 **Motivation:**
 
 Digital image processing is the use of computer algorithms to perform image processing on digital images. As a subcategory or field of digital signal processing, digital image processing has many advantages over analog image processing. It allows a much wider range of algorithms to be applied to the input data and can avoid problems such as the build-up of noise and signal distortion during processing. Since images are defined over two dimensions (perhaps more) digital image processing may be modeled in the form of multidimensional systems.
+Each of the sections below has an example on the note book. This content is for educational, self-learning, and entertainment purposes.
 
 **Introduction：** 
 
@@ -330,9 +331,9 @@ Histogram Equalization is a computer image processing technique used to improve 
 **Conclusion:** 
 
 Using digital image processing is common in a image restoration and enhancement.
+It is an old topic and overtaken by Deep Learning.
+In the applied experiments it is evident that the techniques behind image enhancement are not effective, after the deep learning technology, specially in some domains like medical imaging.
 
-In the applied experiments it is evident that the techniques behind image enhancement are effective specially in some domains like medical imaging.
-1
 
 [pixel]: http://en.wikipedia.org/wiki/Pixel "Pixel"
 [image sensor]: http://en.wikipedia.org/wiki/Image_sensor "Image sensor"
